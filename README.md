@@ -2,9 +2,9 @@
 <h3 align="center">I am a Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
-[![Twitter: harshishathakur](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/harshishathakur)
-[![Linkedin: Harshita](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/harshita-88b140202/)
-[![GitHub Harshita0008](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Harshita0008)
+[![Twitter: harshishathakur](https://img.shields.io/twitter/follow/harshitathakur?style=social)](https://twitter.com/harshishathakur)
+[![Linkedin: Harshita](https://img.shields.io/badge/-Harshita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/harshita-88b140202/)
+[![GitHub Harshita0008](https://img.shields.io/github/followers/Harshita0008?label=follow&style=social)](https://github.com/Harshita0008)
 
 - 🌱 I’m currently a Final Year Student At *Indira Gandhi Delhi Technical University for Women*
 
